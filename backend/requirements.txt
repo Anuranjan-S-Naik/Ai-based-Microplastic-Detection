@@ -1,0 +1,15 @@
+# Install torch/torchvision from the CPU wheel index:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+segmentation-models-pytorch
+opencv-python
+numpy
+pandas
+pillow
+matplotlib
+scikit-image
+scipy
+fastapi
+uvicorn[standard]
+python-multipart

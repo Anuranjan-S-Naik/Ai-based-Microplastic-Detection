@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+
+# Generated artifacts
+backend/outputs/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Large ML Models
+models/
+
+# Scratch & Temporary
+bio_claude_chat.docx
+*.text
+*.log
+
+data/
+data/
